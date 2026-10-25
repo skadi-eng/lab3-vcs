@@ -1,1 +1,2 @@
 Тема: системи контролю версій
+Note from lab3-copy: checking the synchronization of two local copies via GitHub
